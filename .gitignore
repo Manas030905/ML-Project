@@ -159,6 +159,7 @@ ENV/
 env.bak/
 venv.bak/
 mlv/
+/mlv/
 
 # Spyder project settings
 .spyderproject
